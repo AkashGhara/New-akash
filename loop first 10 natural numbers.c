@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    //yo yo honey singh
     int i=0;
     do
     {
